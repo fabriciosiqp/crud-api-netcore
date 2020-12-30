@@ -1,7 +1,7 @@
 <h1 align="center">
-💡<br> <br>CRUD NET CORE 3.0 </h1>
+💡<br> <br>CRUD API NET CORE 3.0 </h1>
 
-><center>”Viva para ser feliz e não viva em vão.” - CBJR</center>
+><p align="center">”Viva para ser feliz e não viva em vão.” - CBJR</p>
 
 
 # Visual Studio
