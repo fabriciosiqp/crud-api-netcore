@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud-api-netcore", "crud-api-netcore\crud-api-netcore.csproj", "{50113D8A-5688-4F32-949F-F8F7E93583AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50113D8A-5688-4F32-949F-F8F7E93583AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50113D8A-5688-4F32-949F-F8F7E93583AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50113D8A-5688-4F32-949F-F8F7E93583AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50113D8A-5688-4F32-949F-F8F7E93583AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEB32CA-0161-47D9-B538-36C31DC9D2D3}
+	EndGlobalSection
+EndGlobal
